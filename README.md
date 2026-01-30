@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-<h1> align="center">I'm Priya Bhargavi</h1>
-<h3> align="center">Information Science Student| Web Development| Cloud computing</h3>
+<h1 align="center">I'm Priya Bhargavi</h1>
+<h3 align="center">Information Science Student| Web Development| Cloud computing</h3>
 <img align="right" alt="coding" width="500" src="https://i.pinimg.com/736x/0d/34/0d/0d340d9cf6b1ff9afcc8e21767507bcf.jpg">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyabhaargavi&label=Profile%20views&color=0e75b6&style=flat" alt="priyabhaargavi" /> </p>
 
@@ -22,5 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyabhaargavi&show_icons=true&locale=en" alt="priyabhaargavi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyabhaargavi&" alt="priyabhaargavi" /></p>!--
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyabhaargavi&" alt="priyabhaargavi" /></p>
